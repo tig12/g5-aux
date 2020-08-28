@@ -1,0 +1,1645 @@
+{
+  "head" : {
+    "vars" : [ "occupation", "occupationLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30175498"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q30175498"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q67164844"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q67164844"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q67202689"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q67202689"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19204627"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "American football player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13414980"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Australian rules footballer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20751891"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian jiu-jitsu practitioner"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q66759460"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "English billiards player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21423578"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Frisian handball player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17351861"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gaelic football player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61707268"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gaelic handball player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3759615"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Generation of phenomena"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12039558"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Go player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5610177"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Grommet"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1614023"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Herrenfahrer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q62261577"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kaitlyn Tougas"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58841163"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paralympic competitor"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26326102"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swiss wrestler"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23067916"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Valencian pilota player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27062049"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "aizkolari"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19595175"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "amateur wrestler"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13382355"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56677347"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "arm wrestler"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q937857"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "association football player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11513337"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "athletics competitor"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13141064"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "badminton player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18702210"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "bandy player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10871364"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "baseball player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3665646"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "basketball player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q810927"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "batter"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21057452"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "beach soccer player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30525637"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "beach tennis player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17361156"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "beach volleyball player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23719050"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "boccia player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15982795"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "bodybuilder"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33135515"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "boules player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4951095"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "bowler"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29579227"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "bowls player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11338576"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "boxer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q767703"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "breakdancer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18437198"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "bridge player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q549322"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "bullfighter"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13382566"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "canoeist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q584540"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "captain"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q913532"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "charro"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28971125"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cheerleader"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10873124"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "chess player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2465611"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "co-driver"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q72168361"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "coastal rower"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16004431"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "competitive diver"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18536342"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "competitive player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12299841"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cricketer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24238692"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "croquet player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q71550599"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "crossbowman"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18544928"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cue sports player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18574233"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "darts player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29466935"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "disc golfer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q63915541"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "dodgeball player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43644099"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "draftee"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16402890"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "draughts player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53645345"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "duathlete"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2730732"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "equestrian"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1385518"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "extreme sports athlete"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13381863"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "fencer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10843263"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "field hockey player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28870526"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "fistball player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23868946"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "floorball player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2749653"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "forcado"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q969772"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "free agent"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17318006"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "freediver"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18515558"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "futsal player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55962467"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "goalball player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11303721"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "golfer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14128148"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "gridiron football player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16947675"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "gymnast"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13365117"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "handball player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27062349"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "harri-jasotzailea"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18199024"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "hurler"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18706712"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ice cross downhill racer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11774891"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ice hockey player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q72166732"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "indoor rower"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q65697958"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "inline hockey player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50259293"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "inline skater"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58823986"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "jetski racer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q846750"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "jockey"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6665249"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "judoka"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28164897"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "jujutsuka"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16004471"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "kayaker"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11296761"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "kickboxer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17519504"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "kitesurfer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23754399"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "korfball player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17682262"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "lacrosse player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11124885"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "martial artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3388309"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "medical joker"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2312865"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "military athlete"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11607585"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mixed martial artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6885897"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mnemonist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15972912"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "modern pentathlete"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30339659"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "motorsports competitor"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9149093"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mountaineer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q500097"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "musher"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17619498"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "netballer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21081635"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ocean rower"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24573123"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "oină player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58825429"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "olympic athlete"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13581129"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "orienteer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2540672"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pacemaker"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59716278"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "paddle player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11939963"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pancratiast"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26111624"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "paraglider pilot"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q62627163"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pedestrian"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18667447"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pesäpallo player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4197743"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19746576"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "player of Basque pelota"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49904510"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "player of jeu de paume"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13218361"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "polo player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13474373"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "professional wrestler"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q63095188"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pugilist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23452173"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pétanque player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17611899"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "racquetball player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56164819"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "radiosportsperson"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26233091"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "real tennis player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18920523"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ringette player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58546307"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "roller derby player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61278580"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "roller skater"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13382576"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "rower"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13415036"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "rugby player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q476246"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sailor"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23927336"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sambo fighter"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q66839062"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "savateur"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1096878"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "scuba diving"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27062494"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "segalari"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4371047"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "semi-professional"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38079409"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "shinty player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17502714"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "skateboarder"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6060450"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "skydiver"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41898139"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "slackliner"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17165321"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "snooker player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13388586"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "softball player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43548373"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "speedcuber"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2309784"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sport cyclist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22695781"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sport fisher"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17486376"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sport shooter"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51093963"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sportpilot"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58840094"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sportsperson which competes in this club"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16278103"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "squash player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2324660"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state amateur"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7623231"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "strength athlete"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1852228"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "strongman"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q252628"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "strongwoman"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13561328"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "surfer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10843402"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "swimmer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13382519"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "table tennis player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13382533"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "taekwondo athlete"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10833314"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tennis player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21030792"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "traceur"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15306067"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "triathlete"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13464374"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tug of war competitor"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15117302"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "volleyball player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23308797"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "wakeboarder"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17524364"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "water polo player"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13382487"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "windsurfer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20965770"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "winter sports practitioner"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27978698"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "wrestler"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q65924683"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "wushu practitioner"
+      }
+    } ]
+  }
+}

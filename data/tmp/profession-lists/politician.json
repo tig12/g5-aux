@@ -1,0 +1,753 @@
+{
+  "head" : {
+    "vars" : [ "occupation", "occupationLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1021222"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q1021222"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11981531"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q11981531"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11995376"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q11995376"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12046213"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q12046213"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1207353"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q1207353"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28721657"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q28721657"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2994371"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q2994371"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30461"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q30461"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3537591"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q3537591"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42399168"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q42399168"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42559111"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q42559111"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42898469"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q42898469"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47956684"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q47956684"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6082308"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q6082308"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q65971579"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q65971579"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4887021"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bendahara"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16243848"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Big man"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2937507"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Capitoul"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5068086"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chairman of Committees"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18206482"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Deputy President of the Nigerian Senate"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q254907"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Genrō"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1688932"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jiedushi"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2513785"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuraka"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56271854"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leader of the Australian Labor Party (SA Branch)"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56173294"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leader of the Liberal and Country League"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53464731"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leader of the Parliamentary Labor Party"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56173131"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leader of the South Australian Division of the Liberal Party of Australia"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2915459"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lords Spiritual"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6738422"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Majority Leader of the Illinois House of Representatives"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16843760"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of Lincoln, England"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17149373"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of Prague"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42898653"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Uitvoerend Bewind"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4345946"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Party organizer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7243287"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister's Official Spokesperson"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56911"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial governor (of the Ming and Qing dynasties)"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3477182"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Second Lady"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7574287"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Speaker of the Legislative Assembly of the Province of Canada"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10781865"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vice Chairperson of the Kuomintang"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4122737"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vogt"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4811603"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "astronaut-politician"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q599898"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cacique"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649143"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "city commissioner"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1500610"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "community leader"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61782327"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cultural politician"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10264925"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "demagogue"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5261098"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy leader"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5315829"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "duo-raadslid"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2285706"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "head of government"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3153026"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2409583"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "kingmaker"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1450482"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislative assistant"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10547393"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "local politician"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10872004"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "members of the State Council of the People's Republic of China"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q83307"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "minister"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7112069"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "outgoing politician"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42375013"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "parliamentary expense"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7140620"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "partisan"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25712839"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "party chief representative"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1553195"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "party leader"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q836971"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "party secretary"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q63755524"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "permanent politician"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16185210"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "policy advisor"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8125919"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "political adviser"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19772737"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "political candidate"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2587924"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "posadnik"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q371909"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prefect"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1285463"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prefect"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q845929"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pretender"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1097498"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ruler"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q372436"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "statesperson"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3382119"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sub-prefect"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23666893"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "taliban"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8025244"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "wingnut"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1543753"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Éminence grise"
+      }
+    } ]
+  }
+}

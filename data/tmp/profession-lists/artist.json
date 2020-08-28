@@ -1,0 +1,731 @@
+{
+  "head" : {
+    "vars" : [ "occupation", "occupationLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11606851"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q11606851"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15141567"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q15141567"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24557532"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q24557532"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27929189"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q27929189"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28869817"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q28869817"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55798364"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q55798364"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q72230666"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q72230666"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24204895"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Art director (animation)"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50791189"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "abstractionist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33999"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "actor"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5116158"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "animalier"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q266569"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "animator"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3623165"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "armourer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q706364"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "art director"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q780596"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "art exhibition curator"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18511668"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "art forger"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q847689"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57174272"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "artist-curator"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19890761"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "artivist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4839644"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "background artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q63870933"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "beadworker"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16159168"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "body piercer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3303330"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "calligrapher"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3297652"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cast member"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7541856"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ceramist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2490358"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "choreographer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q222344"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cinematographer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28813302"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "clean-up artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3243461"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "collector"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1111648"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "colorist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q245068"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "comedian"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28107590"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "concept artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q736415"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "conferencier"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21477194"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "contemporary artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q62521253"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "decorative artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3455803"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "director"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1899943"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "entertainer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q69320328"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "environmental artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15977906"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "experimental artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2489809"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "fantasy artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q64048964"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "folk artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3191582"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "game artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12406482"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "humorist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4199058"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "iconographer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1658894"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "illusionist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1148872"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "impressionist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55168012"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intarsia cutter"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33123562"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "land artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28110454"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "layout artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q44828747"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "liturgical artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54820006"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "marqueteur"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q674067"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mime artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6934789"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "multimedia artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50355283"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "museum professional"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1294626"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "music artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27890965"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "paleoartist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12331010"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "parodist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q713200"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "performing artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q579021"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "perfumer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191493"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sommelier"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19850998"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sound artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21560152"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "special effects artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20002503"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "story artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5762300"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "storyboard artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755070"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "storyteller"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16023925"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "storyteller"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q70453214"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tapestry artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1861368"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tattoo artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2114844"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "taxidermist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16321429"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tea master"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1759246"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "theatrical producer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3391743"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "visual artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q630349"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "war artist"
+      }
+    } ]
+  }
+}

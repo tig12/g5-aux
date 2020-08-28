@@ -1,0 +1,283 @@
+{
+  "head" : {
+    "vars" : [ "occupation", "occupationLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1020593"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q1020593"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1945168"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q1945168"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2136129"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q2136129"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2872380"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q2872380"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38094429"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q38094429"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3178041"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Authors of the Bible"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1466166"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shakespeare authorship question"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4233718"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "anonymous"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8246794"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "blogger"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11499012"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "broadcast writer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15735983"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "coauthor"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q715301"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "comics artist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36834"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "composer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36988860"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "corresponding author"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1415090"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "film score composer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1544133"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "game author"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43155099"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ghost author"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1144638"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "glossator"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42889533"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "honorary author"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12406482"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "humorist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1930187"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "journalist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6508397"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "lead author"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12912932"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mufassir"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3922505"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "music producer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2330979"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "polygraph"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19839393"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "preface author"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28225718"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "science fiction author"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36180"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "writer"
+      }
+    } ]
+  }
+}

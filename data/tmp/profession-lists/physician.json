@@ -1,0 +1,626 @@
+{
+  "head" : {
+    "vars" : [ "occupation", "occupationLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1005625"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q1005625"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1022349"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q1022349"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11003769"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q11003769"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11395613"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q11395613"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12309924"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q12309924"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15875544"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q15875544"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16027666"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q16027666"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17623164"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q17623164"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1969609"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q1969609"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2024959"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q2024959"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2058423"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q2058423"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2221822"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q2221822"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2287383"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q2287383"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2341535"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q2341535"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2860807"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q2860807"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2962005"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q2962005"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3517107"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q3517107"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4127019"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q4127019"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42297156"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q42297156"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50384437"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q50384437"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6088675"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q6088675"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q742628"
+      },
+      "occupationLabel" : {
+        "type" : "literal",
+        "value" : "Q742628"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q480298"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amtsarzt"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q913404"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Doctor of Medicine"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5287521"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Doctor of Osteopathic Medicine"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3401402"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hospitalist physician"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17152851"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "International medical graduate"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q64869217"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Licentiate of Medicine"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16947143"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nocturnist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48970157"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proceduralist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2327935"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Town doctor"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q700365"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uinyeo"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8031527"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Women in medicine"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1360697"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wundarzt"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q62606497"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "addictionologist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10872101"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "anatomist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10855616"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "army surgeon"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q460628"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "attending physician"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1428506"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "aviation medical examiner"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1068947"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "chief physician"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3332427"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "clinical pathologist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5164591"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "consultant"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2447386"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "dermatologist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2772436"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "elementary physician"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q65472776"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "family physician"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19280221"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "gastroenterologist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6500773"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "general practitioner"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q651566"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "hygienist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20088923"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "laryngologist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59899712"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "medical informatician"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3332438"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "medical specialist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4002666"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "military physician"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q325855"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "naval surgeon"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7048877"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "non-consultant hospital doctor"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1251349"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "personal physician"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2012484"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "physiatrist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3332431"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "physician in France"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q551835"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "physician writer"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25141651"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "physician-scientist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55379489"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "primary care physician"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q211346"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "psychiatrist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2920595"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sexologist"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2577681"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sports physician"
+      }
+    }, {
+      "occupation" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q67436432"
+      },
+      "occupationLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "women physicians"
+      }
+    } ]
+  }
+}
