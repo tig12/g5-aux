@@ -2,4 +2,7 @@
 # files marked for deletion
 z.*
 
+# local files not versioned
+y.*
+
 .~lock.*
