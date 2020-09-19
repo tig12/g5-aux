@@ -1,0 +1,173 @@
+-- p 37 --
+1 Roi guerrier
+    Gustave Adolphe,            19 décembre 1594 - 7h28,        Stockholm
+
+144 Maréchaux et Généraux
+Ch. Lannes,                     10 avril 1769 - 12 h.,          Lectoure (Gers).
+Ch. Bertrand,                   28 mars 1773 - 12 h.,           Chateauroux.
+*   Changarnier,                26 avril 1793 - 9 h.,           Autun.
+Ch. Pélissier,                  6 novembre 1794 - 1 h. 30,      Maromme (S.-Inf'*).
+*   Allard,                     29 octobre 1798 - 21 h.,        Parthenay (Deux-Sévres).
+*   Vinoy,                      10 août 1800 - 6 h.,            St-Etienne-de-St-Geoirs (Isére).
+*   Niel,                       4 octobre 1802 - 4 h.,          Muret (Haute-Garonne).
+*   d’Aurelles de Paladines,    8 janvier 1804 - 12 h.,         Le Malzieu (Lozére).
+*   Bosc,                       16 août 1804 - 10 h.,           Olonzac (Hérault).
+*   Bedeau,                     19 août 1804 - 12 h.,           Vertou (Loire-Inf*).
+*   Le Flô,                     2 novembre 1804 - 3 h.,         Lesneven (Finistére).
+*   A. Breton,                  4 novembre 1805 - 4 h.,         Melun.
+*   de Chabron,                 5 janvier 1806 - 17 h.,         Retournac (Haute-Loire).
+*   Damesme,                    23 janvier 1807 - 3 h.,         Fontainebleau.
+*   Frossard,                   26 avril 1807 - 12 h.,          Versailles.
+*   Mac Mahon,                  13 juin 1808 - 12 h.,           Sully (S.-et-L.).
+*   A. de Martimprey,           16 juin 1808 - 7h.,             Meaux.
+*   Corréard,                   18 avril 1809 - 5 h.,           Veynes (Htes-Alpes).
+*   A. de Martimprey,           16 juin 1809 - 20 h.,           Meaux.
+*   Canrobert,                  27 juin 1809 - 14 h.,           St-Céré (Lot).
+*   Le Brun,                    22 octobre 1809 - 16 h.,        Landrecies (Nord).
+*   Bosquet,                    8 novembre 1810 - 10 h.,        Mont-de-Marsan.
+*   Grenier,                    26 décembre 1810 - 20 h.,       Besancon.
+*   Bazaine,                    13 février 1811 - 12 h.,        Versailles.
+*   de Lourmel,                 12 juillet 1811 - 10 h.,        Pontivy.
+*   Ribourt,                    17 novembre 1811 - 8h.,         St-Germain-en-Laye.
+*   de Rochebouét,              16 mars 1813 - 11h.,            Angers.
+*   Chareton,                   8 juillet 1813 - 4 h.,          Montélimar.
+*   Mieroslawski,               17 janvier 1814 - 1h:,          Nemours (S.-et-M.).
+*   M. Giraud,                  29 mars 1814 - 5 h.,            Aubenas (Ardéche).
+
+-- p 38 --
+
+*   Hanoteau,                   12 juin 1814 - 1 h.,            Decize (Niévre).
+*   de Nansouty,                20 février 1815 - 1h. 30,       Dijon.
+Ch. Troehu,                     12 mars 1815 - 4 h.,            Le Palais (Morbihan).
+*   de Lartigue,                17 avril 1815 - 9 h.,           Montesquieu-Volvestre (Haute-Garonne). ,
+*   Grouzat,                    3 juin 1815 - 2 h.,             Sérignan (Hérault).
+*   Deligny,                    12 décembre 1815 - 10 h.,       Ballan (I.-et-L.).
+*   Bourbaki,                   22 avril 1816 - 5 h.,           Pau.
+*   Farre,                      5 mai 1816 - 6 h.,              Valence.
+*   Ducrot,                     24 février 1817 - 15 h.,        Nevers.
+*   Berthaut,                   29 mars 1817 - 18-h.,           Genlis (Côte-d’Or).
+*   du Barail,                  28 mai 1820 - 23 h.,            Versailles.
+*   Glinchant,                  24 décembre 1820 - 20 h.,       Thiaucourt (Meurthe-et-Moselle).
+    duc d’Aumale,               16 janvier 1822 - 21 h. 15,     Paris.
+*   Derroja,                    9 octobre 1822 - 11 h.,         St-Hippolyte (Pyrénées-Orientales).
+Ch. Margueritte,                15 janvier 1823 - 21 h.,        Manheulles (Meuse).
+Ch. Chanzy,                     18 mars 1823 - 6 h.,            Nouart (Ardennes).
+*   Février,                    21 octobre 1823 - 6 h.,         Grenoble.
+*   Tricoche,                   9 janvier 1824 - 7 h.,          Chateauroux (Indre).
+*   Delebecque,                 28 mars 1824 - 10 h.,           Douai.
+*   Hanrion,                    8 décembre 1824 - 4 h.,         Perpignan.
+*   Logerot,                    1 février 1825 - 7 h.,          Noyers (Loir-et Cher).
+*   Fay,                        23 septembre 1827 - 2h.,        St-Jean-Pied-de-Port.
+*   Henry,                      14 décembre 1827 -.22 h.,       Marseille.
+*   Saussier,                   16 janvier 1828 - 17 h.,        Troyes.
+*   Philebert,                  26 novembre 1828 - 3 h.,        Angouléme.
+*   L. Davout,                  28 août 1829 - 5 h.,            Escolives (Yonne).
+*   Ferron,                     19 septembre 1830 - 18 h.,      Pré-St-Evroult (Eure-et-Loir).
+*   Cramezel de Kerhué,         4 juillet 1831 - 11 h.,         Rennes.
+*   de Miribel,                 14 septembre 1831 - 22 h.,      Montbonnot (Isère).
+*   F. Perrier,                 18 avril 1833 - 10 h.           Valleraugue (Gard).
+*   Derrécageix,                14 décembre 1833 - 7 h.,        Bayonne.
+*   Lambert,                    23 juin 1834 - 4 h.,            Carhaix (Finistère).
+*   Chanoine,                   18 décembre 1835 - 21 h.,       Dijon.
+*   Gras,                       2 janvier 1836 - 1 h.           St-Amans-de-Pellaga (Tarn-et-Garonhe).
+*   de La Noé,                  17 mai 1836 - 12 h.,            Limoux (Aude).
+*   Filorentin,                 18 septembre 1836 - 5 h.,       La Fère.
+*   Duchesne;                   3 mars 1837 - 12 h.,            Sens.
+    Ch. Boulanger,              29 avril 1837 - 8 h. 15,        Rennes.
+*   Duchemin,                   13 juillet 1837 - 4 h.,         Pithiviers.
+    Zurlinden,                  3 novembre 1837 - 18 h.,        Colmar.
+*   Garnier des Garets,         11 février 1838-- 7 h.,         Trévoux (Ain).
+*   André,                      29 mars 1838 - 22 h.,           Nuits-St-Georges.
+*   Voyron,                     5 août 1838 - 15 h.,            Dieulefit (Drôme).
+*   Grasset,                    17 septembre 1838 - 11 h.,      Montélimar,
+
+-- p 39 --
+
+*   Faure-Biguet,               19 octobre 1838 - 7h.,          Crest (Drôme).
+*   Pédoya,                     29 novembre 1838 - 1 h.,        Pamiers.
+*   Marcille,                   15 janvier 1839 - 22 h.,        Rennes. ;
+*   Langlois,                   3 août 1839 - 15 h.,            Besançon.
+*   de Négrier,                 2 octobre 1839 - 9 h.,          Belfort.
+*   Brugére,                    27 juin 1841 - 2 h.,            Uzerche (Corréze).
+*   Beaugier,                   18 avril 1842 - 19 h. 30,       Le Puy.
+*   Dessirier,                  11 juin 1842 - 15 h.,           Nancray (Doubs).
+*   de Ganay,                   6 septembre 1843 -'1 h.,        Pau.
+*   Chevallier,                 10 décembre 1844 - 19 h.,       La Motte-Beuvron (Loir-et-Cher).
+*   Michal,                     23 octobre 1845 - 17 h.,        Grenoble.
+    Hindenburg,                 2 octobre 1847 - 15 h.,         Posen.
+*   Maunoury,                   17 décembre 1847 - 2:h.,        Maintenon (E-et-L.).
+*   Pau,                        29 novembre 1848 - 19 h.,       Montélimar.
+*   Galliéni,                   25 avril 1849 - 5 h.,           St-Béat (Hte-Garonne).
+*   Dubail,                     15 avril 1851 - 5 h.,           Belfort.
+*   Desaleux,                   4 aofit 1851 - 13 h. 15,        Bayonne.
+*   Foch,                       2 octobre 1851 - 22 h.,         Tarbes.
+    Ch. de Castelnau,           24 décembre 1851 - 21 h.,       St-Affrique.
+*   Joffre,                     12 janvier 1852 - 8 h.,         Rivesaltes.
+*   Balfourier,                 27 avril 1852 - 17 h. 30,       Paris.
+*   Fayolle,                    14 mai 1852 - 15 h.,            Le Puy.
+*   Drude,                      27 mai 1853 - 2 h.,             Condé-sur-Escaut (Nord).
+*   Sauret,                     14 juillet 1853 - 3h,           Rennes.
+*   Abonneau,                   10 janvier 1854 - 19 h.,        Poitiers.
+*   Fournier,                   15 mars 1854 - 1 h.,            Peyrieu (Ain).
+    Lyautey,                    17 novembre 1854 - 17 h.,       Nancy.
+*   Moinier,                    2 juin 1855 - 6 h.,             Mont-de-Marsan.
+*   Dupuis,                     6 novembre 1855 - 21 h.,        Metz.
+*   Sarrail,                    6 avril 1856 - 9 h.,            Carcassonne.
+    Ch. Pétain,                 24 avril 1856 - 22 h. 30,       Cauchy-la-Tour (Pas-de-Calais).
+    Franchey d’Espérey,         25 mai 1856 - 20 h. 30,         Mostaganem.
+*   Nivelle,                    15 octobre 1856 - 23 h.,        Tulle.
+*   Roques,                     28 décembre 1856 - 18 h.,       Marseillan (Hérault).
+*   Cordonnier,                 23 mars 1858 - 17 h.,           Surgy (Niévre). :
+*   Maistre,                    20 juin 1858 - 13 h.,           Joinville (Hte-Marne).
+*   Anthoine,                   28 février 1860 - 13° h.,       Le Mans.
+    Berthelot,                  7 décembre 1861 -.7.h.,         Feurs (Loire).
+*   Humbert,                    8 avril 1862 - 19 h.,           Gazeran (S.-et-Oise).
+*   Duchéne,                    23 septembre 1862 - 1:h.,       Juzennecourt (Haute-Marne).
+*   Marchand,                   22 novembre 1863 - 20 h.,       Thoissey (Ain).
+*   Passaga,                    3 décembre 1863 - 5 h. 15,      Angers.
+*   Debeney,                    5 mai 1864 - 5h. 30,            Bourg.
+
+-- p 40 --
+
+*   Baratier,                   11 juillet 1864 - 6 h. 45,      Belfort.
+*   de Boissoudy,               12 octobre 1864 - 20 h. 30,     Cherbourg.
+*   Colin,                      27 Décembre 1864 - 21 h.,       Chatou (S.-et-Oise).
+    Ludendorff,                 9 avril 1865 - 11 h.,           Kruszewina (Pologne).
+*   Degoutte,                   18 avril 1866 - 12 h.,          Charnay (Rhone).
+*   Largeau,                    6 juin 1866 - 3 h.,             Niort.
+    Mangin,                     6 juillet 1866 - 14 h.,         Sarrebourg.
+*   Daugan,                     31 décembre 1866 - 22-h. 30,    Rennes.
+    Weygand,                    21 janvier 1867 - 8 h.,         Bruxelles.
+*   H. Nogués,                  18 février 1867 - 21 h.,        Perpignan.
+*   Mordacq,                    12 Janvier 1868 - 5 h.,         Clermont-Ferrand.
+*   Buat,                       17 septembre 1868 - 10 h. 30,   Chalons-sur-Marne.
+    Ferrié,                     19 novembre 1868 - 8 h.,        St-Michel-de-Maurienne.
+*   Poeymireau,                 8 novembre 1869 - 9 h.,         Pau.
+*   Naulin,                     17 avril 1870 - 3 h.,           St-Loup (Deux-Sévres).
+    Gamelin,                    20 septembre 1872 - 15 h.,      Paris.
+*   G. Perrier,                 28 octobre 1872 - 5 h.,         Montpellier.
+*   Langlois,                   29 juillet 1874 - 5 h.,         La Fére.
+*   Georges,                    19 aofit 1875 - 20 h.,          Montlucon.
+*   Colson,                     27 octobre 1875 - 2 h. 30,      Toul.
+*   Sire,                       4 janvier 1877 - 3 h.,          Lusignan (Vienne).
+*   Huntziger,                  25 juin 1880 - 14 h.,           Lesneven (Finistére).
+    von Schleicher,             7 avril 1882 - 23 h. 40,        prés de Berlin.
+*   de Gaulle,                  22 novembre 1890 - 4 h.,        Lille.
+    Gering,                     12 janvier 1893 - 4 h.,         Rosenheim.
+
+4 Amiraux
+    Ch. Courbet,                26 juin 1827 - 14 h.,           Abbéville.
+*   Boué de Lapeyrére,          18 janvier 1852 - 8 h.,         Castera-Lectourois (Gers).
+*   Wackernie,                  23 septembre 1873 - 17 h.,      Cassel (Nord).
+*   Darlan,                     7 aofit 1881 - 9 h. 30,         Nérac (Lot-et-Garonne).
+
+9 Officiers Supérieurs
+*   Denfert-Rochereau,          11 janvier 1823 - 17 h. 30,     St-Maixent.
+    Ch. de Rochas,              20 mai 1837 - 17 h.,            St-Firmin (Htes-Alpes).
+    Guise,                      4 septembre 1861 - 14 h.,       Hesdin (Pas-de-Calais).
+    Caslant,                    2 décembre 1865 - 22 h. 15,     Nanteuil (Oise).
+    Choisnard,                  13 février 1867 - 23 h.,        Tours.
+    Louis,                      24 juillet 1867 - 9 h.,         Paris.
+    de la Rochette,             21 mars 1876 - 22 h.,           Givors.
+    de la Rocque,               6 octobre 1885 - 8 h.,          Lorient.
+*   Bonningue,                  3 mai 1895 - 7 h. 30,           Calais.
