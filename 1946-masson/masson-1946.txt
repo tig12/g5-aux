@@ -99,7 +99,7 @@ Ch. Chanzy,                     18 mars 1823 - 6 h.,            Nouart (Ardennes
 *   Pau,                        29 novembre 1848 - 19 h.,       Montélimar.
 *   Galliéni,                   25 avril 1849 - 5 h.,           St-Béat (Hte-Garonne).
 *   Dubail,                     15 avril 1851 - 5 h.,           Belfort.
-*   Desaleux,                   4 aofit 1851 - 13 h. 15,        Bayonne.
+*   Desaleux,                   4 août 1851 - 13 h. 15,        Bayonne.
 *   Foch,                       2 octobre 1851 - 22 h.,         Tarbes.
     Ch. de Castelnau,           24 décembre 1851 - 21 h.,       St-Affrique.
 *   Joffre,                     12 janvier 1852 - 8 h.,         Rivesaltes.
@@ -147,7 +147,7 @@ Ch. Chanzy,                     18 mars 1823 - 6 h.,            Nouart (Ardennes
     Gamelin,                    20 septembre 1872 - 15 h.,      Paris.
 *   G. Perrier,                 28 octobre 1872 - 5 h.,         Montpellier.
 *   Langlois,                   29 juillet 1874 - 5 h.,         La Fére.
-*   Georges,                    19 aofit 1875 - 20 h.,          Montlucon.
+*   Georges,                    19 août 1875 - 20 h.,          Montlucon.
 *   Colson,                     27 octobre 1875 - 2 h. 30,      Toul.
 *   Sire,                       4 janvier 1877 - 3 h.,          Lusignan (Vienne).
 *   Huntziger,                  25 juin 1880 - 14 h.,           Lesneven (Finistére).
@@ -159,7 +159,7 @@ Ch. Chanzy,                     18 mars 1823 - 6 h.,            Nouart (Ardennes
     Ch. Courbet,                26 juin 1827 - 14 h.,           Abbéville.
 *   Boué de Lapeyrére,          18 janvier 1852 - 8 h.,         Castera-Lectourois (Gers).
 *   Wackernie,                  23 septembre 1873 - 17 h.,      Cassel (Nord).
-*   Darlan,                     7 aofit 1881 - 9 h. 30,         Nérac (Lot-et-Garonne).
+*   Darlan,                     7 août 1881 - 9 h. 30,          Nérac (Lot-et-Garonne).
 
 9 Officiers Supérieurs
 *   Denfert-Rochereau,          11 janvier 1823 - 17 h. 30,     St-Maixent.
@@ -171,3 +171,449 @@ Ch. Chanzy,                     18 mars 1823 - 6 h.,            Nouart (Ardennes
     de la Rochette,             21 mars 1876 - 22 h.,           Givors.
     de la Rocque,               6 octobre 1885 - 8 h.,          Lorient.
 *   Bonningue,                  3 mai 1895 - 7 h. 30,           Calais.
+
+-- p 68 --
+
+Ch. Robespierre,                6 mai 1758 - 2 h.,              Arras.
+Ch. Thiers,                     15 avril 1797 - 14 h.,          Marseille.
+    Lytton,                     25 mai 1803 - 8 h.,             Londres.
+Ch. Disraéli,                   21 décembre 1804 - 5 h.,        Londres.
+Ch. Grévy,                      15 août 1807 - 23 h.,           Mont-sous-Vaudrey.
+*   J.Favre,                    21 mars 1809 - 1h.,             Lyon.
+    Gladstone,                  29 décembre 1809 - 8 h. 30,     Liverpool.
+    Baudin,                     23 octobre 1811 -°6 h.,         Nantua.
+Ch. Olivier,                    2 juillet 1825 - 2 h.,          Marseille.
+Ch. Challemel-Lacour,           19 août 1827 - 17 h.,           Avranches.
+Ch. de Freycinet,               14 novembre 1828 - 1 h.,        Foix
+Ch. Ferry,                      5 avril 1832 - 2 h. 45,         Saint-Dié.
+Ch. Constans,                   3 mai 1833 - 8 h.,              Béziers.
+Ch. P. Bert,                    19 octobre 1833 - 16 h.,        Auxerre.
+Ch. Guyot-Dessaigne,            26 décembre 1833 - 10 h.,       Brioude.
+Ch. Naquet,                     6 octobre 1834 - 17 h.,         Carpentras.
+Ch. Combes,                     6 septembre 1835 - 2 h.,        Roquecourbe (Tarn).
+Ch. Spuller,                    8 décembre 1835 - ih.,          Seurre (Côte-d’Or).
+Ch. Carnot,                     11 aotit 1837 - 18 h.,          Limoges.
+Ch. Gambetta,                   2 avril 1838 - 20 h.,           Cahors.
+Ch. Loubet,                     30 décembre 1838 - 17 h.,       Marsanne (Dréme).
+    Bebel,                      22 février 1840 - 20 h. 30,     Cologne.
+    F. Faure,                   30 janvier 1841 -.23 h.,        Paris.
+*   A. de Mun,                  28 février 1841 - 13 h.,        Lumigny (S.-et-M.).
+
+-- p 69 --
+
+Ch. Clémenceau,                 28 septembre 1841 - 21 h. 30,   Mouilleron-en-Pareds (V.).
+Ch. Falliéres,                  6 novembre 1841 - 14 h.,        Mézin (L.-et-G.).
+Ch. Ribot,                      7 février 1842 - 1 h.,          Saint-Omer.
+Ch. Lanessan,                   13 juillet 1843 - 16 h.,        St-André-de-Cubzac (Gironde).
+*   Y. Guyot,                   6 septembre 1843 - 15 h.,       Dinan.
+Ch. Dupuy,                      1 octobre 1844 - 18 h.,         St-Palais (Char.-Mar.).
+Ch. Etienne,                    15 décembre 1844 - 0 h. 30,     Oran.
+    Monis,                      23 mai 1846 - 11 h.,            Chateauneuf (Charente).
+*   Pelletan,                   23 juin 1846 - 1 h.,            Paris.
+Ch. Waldeck-Rousseau,           2 décembre 1846 - 4 h.,         Nantes.
+Ch. C. Périer,                  8 novembre 1847 - 8 h.,         Paris.
+*   D. Cochin,                  1 septembre 1851 - 15 h. 30,    Paris.
+Ch. Deleassé,                   1 mars 1852 - 8 h.,             Pamiers.
+Ch. Berteaux,                   3 juin 1852 - 20 h.,            St-Maur (Seine).
+*   Lemire,                     23 avril 1853 - 1 h.,           Vieux-Berquin (Nord).
+Ch. Hanoteaux,                  19 novembre 1853 - 14 h.,       Beaurevoir (Aisne).
+Ch. P. Deschanel,               13 février 1855 - 11 h.,        Bruxelles.
+Ch. Augagneur,                  16 mai 1855 - 23 h.,            Lyon.
+*   Leygues,                    29 octobre 1856 - 10 h.,        Villeneuve-s-Lot.
+Ch. Doumer,                     22 mars 1857 - 3 h.,            Aurillac.
+*   S. Pichon,                  10 août 1857 - 23 h.,           Arnay-le-Duc (Céte-d’Or).
+*   Weiller,                    20 juillet 1858 - 16 h.,        Sélestat.
+    Millerand,                  10 février 1859 - 19 h. 13,     Paris.
+*   Berthoulat,                 16 août 1859 - 21 h.,           Le Chatelet (Cher).
+    Jaurés,                     3 septembre 1859 - 12 h.,       Castres.
+*   Poincaré,                   20 août 1860 - 17 h.,           Bar-le-Duc.
+*   Wetterlé,                   2 avril 1861 - 22 h.,           Colmar.
+Ch. Briand,                     28 mars 1862 - 10 h. 30,        Nantes.
+Ch. Barthou,                    25 août 1862 - 1 h.,            Oloron.
+Ch. Caillaux,                   30 mars 1863 - 9 h.,            Le Mans.
+    Doumergue,                  14 août 1863 - 23 h.,           Aigues-Vives (Gard).
+Ch. Clémentel,                  29 mars 1864 - 1 h.,            Clermont-Ferrand. :
+    Hugenberg,                  19 juin 1865 - 23 h. 45,        Hanovre.
+    Painlevé,                   5 décembre 1865 - 5 h.,         Paris.
+*   E. Brousse,                 23 août 1866 - 3 h.,            Perpignan.
+    Eisner,                     14 juin 1867 - 22 h., 15,       Berlin.
+    L. L. Dreyfus,              6 septembre 1867 - 5 h.,        Zurich.
+    L. Daudet,                  16 novembre 1867 - 21 h.,       Paris.
+Ch. Steeg,                      19 décembre 1868 - 5 h.,        Libourne.
+*   Bedouce,                    8 janvier - 1869 - 10 h.,       Toulouse.
+    Cachin,                     20 septembre 1869 - 4 h.,       Paimpol.
+*   M. Sarraut,                 22 septembre 1869 - 7 h.,       Bordeaux.                                                                                                
+    Ebert,                      4 février 1871 - 12 h.,         Heidelberg (Allemagne).
+    Lebrun,                     29 août 1871 - 14 h.,           Mercy-le-Haut (Moselle).
+    J. Godard,                  26 novembre 1871 - 16 h.,       Lyon.
+    Motta, 29                   décembre 1871 - 4 h.,           Airolo (Tessin-Suisse).
+    L. Blum,                    9 avril 1872 - 11 h.,           Paris.
+    Herriot,                    5 juillet 1872 - 20 h.,         Troyes.
+
+-- p 70 --
+
+Helfferich, 22 juillet 1872 - 6 h., Allemagne (lat. 49° 24).
+A. Sarraut, 25 juillet 1872 - 23 h., Bordeaux.
+F. Bouisson, 16 juin 1874 - 1 h., Constantine.
+Erzberger, 20 septembre 1875 - 21 h., Allemagne (lat. 48° 12).
+Malvy, 30 novembre 1875 - 3 h., Figeac (Lot).
+* Bastide, 29 aotit 1876 - 5 h., Béziers.
+A. Tardieu. 22 septembre 1876 - 13 h., Paris.
+Moldenhauer, 2 décembre 1876 - 3 h., Cologne.
+Guernut, 2 novembre 1876 - 7 h.} Lavaqueresse (Aisne).
+Curtius, 7 février 1877 - 23 h. 45, Hamborn (Allem.).
+Marcombes, 5 décembre 1877 - 9 h., Murat (Cantal).
+* Chiappe, 3 mai 1878 - 14 h., Ajaccio.
+Stresemann, 10 mai 1878 - 12 h. 30, Berlin.
+* Berlia, 23 mai 1878 - 4 h., Toulouse.
+* Pp, Reynaud, 15 octobre 1878 - 18 h., Barcelonnette.
+Luther, 10 mars 1879 - 3 h., Berlin.
+Galmot, 1° juin 1879 - 15 h., Montpazier (Dordogne).
+* Bokanowski, 31 aotit 1879 - 21 h., Le Havre.
+Wirth, 7 septembre 1879 - 21 h. 30, Fribourg-en-Brisgau
+Campinchi, 5 mai 1882 - 16 h. 20, Ajaccio.
+Piétri, 8 aotit 1882 - 12 h., Bastia (Corse).
+* SBarthe, 26 mai 1882 - 17 h., Béziers.
+Feder, 27 janvier 1883 - 6 h., Wurzburg.
+*  Lecour-Grandmaison, 15 mars 1883 - 3 h., Nantes.
+- Laval, 28 juin 1883 - 10 h., Chateldon (Puy-de-Déme).
+Mussolini, 29 juillet 1883 - 14 h., Forli.
+Daladier, 18 juin 1884 - 10 h. 45, Carpentras.
+* Pageot, 22 juillet 1884 - 13 h.30, Nantes.
+V. Auriol, 27 aofit 1884 - 18 h., Revel (Hte-Garonne).
+Marquet, 6 octobre 1884 - 6 h., Bordeaux.
+Chautemps, 1° février 1885 - 17 h., Paris.
+* Mandel, 5 juin 1885 - 22 h. 30, Chatou (S.-et-Oise) .
+Briining, 26 novembre 1885 - 17 h., Minster.
+Thaelmann, 16 avril 1886 - 18 h., Hambourg.
+Grisoni, 20 mai 1886 - 17 h., Corté (Corse).
+Gomboes, 26 décembre 1886 - 13 h., Budapest.
+* Antériou, 15 juin 1887 - 1 h., La Voulte-s-Rhone.
+Taittinger, 4 octobre 1887 - 18 h. 30, Paris.
+* Bataille, 12 novembre 1887 - 4 h., Riom (Puy-de-Déme).
+* Dormoy, 1° aofit 1888 - 23 h., Montlugon.
+Ph. Henriot, 7 février 1889 - 17 h., Reims.
+* Frossard, 5 mars 1889 - 22 h., Foussemagne.
+Flandin, 12 avril 1889 - 4 h., Paris.
+Hitler, 20 avril 1889 - 18 h. 30, Bratnau.
+* TZunino, 12 juin 1889 - 10 h., Toulon.
+G. Bonnet, 23 juillet 1889 - 3 h., Bassillac (Dordogne).
+Pilet-Golaz, 31 décembre 1889 - 20 h.45, Cossonay (Suis.).
+Salengro, 30 mai.1890 - 9 h., Lille. :
+* Besse, 20 février 1891 - 17 h., Toulon.
+
+-- p 71 --
+
+Bergery, 22 novembre 1892 - 2 h., Paris.
+*  Pillot, 20 décembre 1892 - 16 h., Nantes.
+* Bardoul, 27 décembre 1892 - 19 h., Nantes.
+*  Déat, 7 mars 1894 - 15 h. 30, Guérigny (Niévre).
+Dollfuss, 4 octobre 1894 - 0 h. 25, Vienne.
+*  Barthélémy, 15 juin 1897 - 4 h., Béziers.
+Doriot, 26 septembre 1898 - 13 h., Bresles (Oise).
+Thorez, 28 avril 1900 - 15 h., Noyelles (Pas-de-Calais).
+7 J. P. Deschanel, 1° septembre 1904 - 22 h., Paris.
+
+-- p 81 --
+
+a) poetes :
+Botrel Théodore, 14 septembre 1868 4 9 h., & Dinan ;
+Coppée Francois, 26 janvier 1842 4 13 h., a Paris ;
+Ponchon Raoul, 30 décembre 1848 4 16 h., a La Roche-sur-Yon ;
+Rivoire André, 5 mai 1872 4 15 h., 4 Vienne (Isére) ;
+Sully-Prud’homme, 16 mars 1839 4 4 h., a Paris ;
+
+b) peintres :
+Daumier Honoré, 26 février 1808 4 15 h., & Marseille ;
+Fouqueray Charles, 23 avril 1869 4 10 h., au Mans ;
+Gaillard C. F., 7 janvier 1834 4 12 h., & Paris ;
+Leloir Alexandre, 14 mars 1843:4 18 h., a Paris ;
+Lemaire Madeleine, 24 mai 1845 4 18 h., Les Arcs (Var) ;
+de Neuville Alphonse, 31 mai 1835 4 4h. 30 m., 4 St-Omer ;
+de Penne Charles, 11 janvier 1831 a 5h. 30 m., 4 Paris ;
+Thirion Eugéne, 19 mai 1839 4 16 h., & Paris ;
+Weerts Jean-Baptiste, 1° mai 1847 a 1 h., & Roubaix ;
+
+:c) musiciens :
+Audran Edmond, 12 avril 1840 a 1h., a Lyon ;
+Chausson Ernest, 20 janvier 1855 4 12 h., a Paris ;
+- Gaubert Philippe, 5 juillet 1879 4 6 h., a Cahors ; m
+
+-- p 82 --
+
+Huré Jean, 17 septembre 1877 4 8h., a Gien ;
+Lecocg Charles, 3 juin 1832 4 11h., a Paris ;
+Messager André, 30 décembre 1853 a 6 h., 4 Montlugon ;
+Métra Olivier, 2 juin 1830 a 9h. 35 m., 4 Reims ;
+Reyer Ernest, 1° décembre 1823 4 17 h., a Marseille ;
+Rousseau Samuel, 11 juin 1853 a7 h., a Neuve-Maison (Aisne) ;
+Saint-Saéns Camille, 9 octobre 1835 4 7 h., a Paris ;
+Terrasse Claude, 27 janvier 1867 & 6 h., & L’Arbresle (Rhone) ;
+Widor Charles-Marie, 21 février 1844 4 14h., 4 Lyon ; .
+Planté Francis, 2 mars 1839 4 15 h., a Orthez ;
+Carvalho Marie-Caroline, 31 décembre 1827 4 8 h., & Marseille ;
+Vallin Ninon, 8 septembre 1886 4 15h, a Montalieu-Vercieu (Isére) ;
+Capoul Victor, 27 février 1839 a 9 h., a Toulouse ;
+Gailhard Pierre, 1° aofit 1848 4 15 h., 4 Toulouse ;
+Altéry Mario, 12 septembre 1900 4 17 h. 30 m., a Nice.
+
+-- p 90 --
+
+* de Ravignan, 1° décembre 1795 4a 18 h., Bayonne.
+Ch. Lacordaire, 12 mai 1802 a 7 h., Recey-sur-Ource (Céte-d'Or).
+* Pp, Ceur, 18 mars 1805 a 22 h., Tarare. :
+Ch. le pére Félix, 28 juin 1810 a 3 h., Neuville-sur-Escaut (Nord).
+Ch. le pére Hyacinthe, 10 mars 1827 a 4h., Orléans.
+Ch. le pére Monsabré, 11 décembre 1827 4 18 h., Blois. ‘
+Ch. le pére Didon, 17 mars 1840 a 8 h., Le Touvet (Isére).
+* Je pére Janvier, 19 décembre 1860 &@ 11 h., St-Méen (Ille-et-Vilaine). ;
+
+-- p 91a --
+
+*  Sertillanges, 16 novembre 1863 4 10 h., Clermont-Ferrand.
+* Marie, 15 février 1797 4 9h., Auxerre.
+* Sénard, 9 avril 1800 4 8 h., Rouen.
+Lachaud, 25 février 1817 4 22 h., Treignac (Corréze).
+*  Allou, 6 mars 1820 4 10 h., Limoges.
+*  Barboux, 24 septembre 1834 & 8 h., Chateauroux.
+* Demange, 22 avril 1841 & 23 h., Versailles.
+*  Labori, 18 avril 1860 4 1 h., Reims.
+Moro-Giafferi, 6 juin 1878 4 10 h., Paris.
+* Legrand, 23 décembre 1900 A 11 h., Paris.
+
+-- p 91b --
+
+*  Sertillanges, 16 novembre 1863 4 10 h., Clermont-Ferrand.
+* Marie, 15 février 1797 4 9h., Auxerre.
+* Sénard, 9 avril 1800 4 8 h., Rouen.
+Lachaud, 25 février 1817 4 22 h., Treignac (Corréze).
+*  Allou, 6 mars 1820 4 10 h., Limoges.
+*  Barboux, 24 septembre 1834 & 8 h., Chateauroux.
+* Demange, 22 avril 1841 & 23 h., Versailles.
+*  Labori, 18 avril 1860 4 1 h., Reims.
+Moro-Giafferi, 6 juin 1878 4 10 h., Paris.
+* Legrand, 23 décembre 1900 A 11 h., Paris.
+
+-- p 92 --
+
+Ch. Sainte-Beuve, 23 décembre 1804 4 11 h., Boulogne-sur-Mer.
+Ch. J. Reynaud, 14 février 1806 4 16 h., Lyon. © :
+J. M. Nisard, 20 mars 1806 & 8 h., Chatillon-sur-Seine (Céte-d’Or). : :
+* E. Legouvé, 15 février 1807 4 8 h., a Paris. ie
+Charles Nisard, 10 janvier 1808 4 5 h. 30, Chatillon-sur-Seine (Cote-d’Or).
+Ch. V. Considérant, 1° octobre 1808 4 8 h. a Salins (Jura).
+_ Ch. Barbey d’Aurevilly, 2.novembre 1808 4 3 h., St-Sauveur-le-Vicomte.
+Ch. E. WVacherot, 29 juillet 1809 4 2 h., Torcenay prés de Langres.
+A. Franck, 2 octobre 1809 4 18 h., Liocourt (M.-et-M.).
+Ch. J. Sandeau, 19 février 1811 4 7 h., Aubusson.
+Ch. Th. Gautier, 30 aofit 1811 4 2 h., Tarbes.
+Ch. L. Veuillot, 11 octobre 1813 4 16 h., Boynes (Loiret). :
+Ch. A. Houssaye, 28 mars 1814 4 7 h., Bruyéres (Aisne).
+Ch. J. Simon, 27 décembre 1814 4 3 h.,Lorient.
+Ch. Eug. Nus, 21 novembre 1816 4 23 h., Chalons-sur-Marne.
+Karl Marx, 5 mai 1818 a 2 h., Tréves.
+Ch. L. Figuier, 15 février 1819 4 20 h., Montpellier.
+Ch. E. Vacquerie, 19 novembre 1819 4 9 h., Villequier (Seine-Inférieure).
+Ch. E. Augier, 17 septembre 1820 4 12 h., Valence.
+Ch. O. Feuillet, 11 aofit 1821 4 15 h., Saint-Lé.
+Ch. G. Flaubert, 13 décembre 1821 4 4 h., Rouen.
+Ch. E. de Goncourt, 26 mai 1822 4 1 h., Nancy.
+Ch. P. Laffitte, 21 février 1823 4 14 h., Beguey (Gironde).
+Ch. E. Renan, 28 février 1823 a 6 h., Tréguier (Cétes-du-Nord).
+Ch. A. Dumas fils, 27 juillet 1824 a 18 h., Paris.
+Ch. E. Caro, 4 mars 1826 a 6 h., Poitiers.
+Ch. F. Sarcey, 8 octobre 1827 4 1 h., Dourdan.
+Ch. J. Verne, 8 février 1828 4 12 h., Nantes.
+Ch. E. About, 14 février 1828 4 23 h., Dieuze.
+Ch. O. Gréard, 18 avril 1828 4 9 h., Vire (Calvados).
+Ch. H. Taine, 21 avril 1828 4 16 h., Vouziers.
+Ch. E. Hello, 5 novembre 1828 4 0 h. 15 m., Lorient.
+Ch. V. Cherbuliez, 19 juillet 1829 & 2 h. 30 m., Genéve.
+Ch. E. Reclus, 15 mars 1830 4 16 h. 30 m., Ste-Foy-la-Grande (Gironde).
+Ch. Cl. Royer, 21 avril 1830 4 5 h., Nantes.
+* —H. Rochefort, 30 janvier 1831 4 2;h., Paris.
+* G. Droz, 9 juin 1832 4 15 h., Paris.
+Ch. Cl. Theuriet, 8 octobre 1833 & 6 h. 30 m., Marly-le-Roi.
+*  Eug. Plon, 11 juin 1836 4 6 h., Paris.
+Ch. J. Adam, 4 octobre 1836 4 23 h., Verberie (Oise).
+* A. Silvestre, 18 avril 1837 4 2 h., Paris.
+* Hi. Becque, 18 avril 1837 4 19 h., Paris.
+Ch. E. Daudet, 31 mai 1837 4 17 h., Nimes.
+* Ed. Lockroy, 18 juillet 1838 4 12 h. 30, Paris.
+Ch. Fouillée, 18 octobre 1838 & 11 h., Paris.
+
+-- p 93 --
+
+Ch. Villiers de l’Isle-Adam, 7 novembre 1838 a 3 h., St-Brieuc.
+Ch. G. Paris, 9 aofit 1839 4 18 h., Avenet (Marne).
+Ch. E. Zola, 2 avril 1840 4 23 h., Paris.
+Ch. A. Daudet, 13 mai 1840 4 2 h., Nimes.
+Ch. Th. Bentzon, 21 septembre 1840 4 22 h., Seine-Port (Seine-et-Marne).
+Ch. J. Claretie, 3 décembre 1840 a 18 h., Limoges.
+Ch. Ed. Schuré, 21 janvier 1841 4 9 h., Strasbourg.
+Ch. Le Bon, 7 mai 1841 4 5 h. 30 m., Nogent-le-Rotrou.
+Ch. Cat. Mendés, 21 mai 1841 4 3 h., Bordeaux.
+Ch. C. Flammarion, 26 février 1842 a 1 h., Montigny-le-Roi.
+Ch. A. Sorel, 13 aoit 1842 al1h., Honfleur.
+Ch. E. Lavisse, 17 décembre 1842 a 21 h. 30 m., Nouvion-en-Thiérache.
+Ch. d’Haussonville, 21 septembre 1843 4 3 h., Gurcy-le-Chatel.
+* Anat. France, 16 avril 1844 a 7 h., Paris.
+Ch. Ed. Drumont, 3 mai 1844 4 8 h., Paris.
+Ch. Espinas, 23 mai 1844 4 8 h., St-Florentin (Yonne).
+Nietzsche, 15 octobre 1844 4 10 h. 07, prés de Liitzen.
+* @G. Schlumberger, 17 octobre 1844 a 16-h., Guebwiller.
+* P, Dérouléde, 2 septembre 1846 4 22 h., Paris.
+Ch. E. Faguet, 17 décembre 1847 4 6 h., La Roche-sur- Yon.
+* J. Huysmans, 5 février 1848 a 7 h., Paris. /
+Ch. de Vogué, 25 février 1848 a 3 h., Nice.
+* de Porto-Riche, 20 mai 1849 4 15 h., Bordeaux.
+Ch. F. Brunetiére, 18 juillet 1849 4 16 h., Toulouse.
+Ch. P. Loti, 14 janvier 1850 4 23 h. 30 m., Rochefort.
+Ch. G. de Maupassant, 5 aoiit 1850 a 8 h., Tourvilles-sur-Arques.
+Ch. Ch. Wagner, 4 janvier 1852 4 10 h., Chateau-Salins.
+P. Bourget, 2 septembre 1852 4 10 h. 45 m., Amiens.
+Ch. G. Larroumet, 22 septembre 1852 4 10 h., Gourdon.
+Ch. J. Lemaitre, 27 avril 1853 4 10 h.; Vennecy (Loiret).
+* R. Bazin, 26 décembre 1853 a 17 h., Angers.
+*  ¥F, de Curel, 10 juin 1854 4 18 h., Metz.
+Ch. E. Rocheblave, 18 aofit 1854 4 4 h., Branoux (Gard).
+Bernard Shaw, 26 juillet 1856 4 0 h. 40 m., Dublin.
+Ch. Guyau, 28 octobre 1854 4 17 h., Laval.
+* Pp, Barbier, 30 octobre 1854 4 10 h., Paris.
+* J. Reinach, 30 septembre 1856 4 9 h. 20, Paris.
+Ch. P. Hervieu, 2 septembre 1857 a 21h, Neuilly-sur-Seine.
+/ - ©. Courteline, 25 juin 1858 4 6 h., Tours.
+; Conan Doyle, 22 mai 1859 4 5 h., Edimbourg.
+Han Ryner, 7 décembre 1861 4 12 h., Nemours (Algérie).
+__M. Prévost, 1° mai 1862 4 12 h., dans le Gersi,
+* G. @Esparbés, 24 mars 1863 4 8 h., Valence d’Agen.
+* Ch. Le Goffic, 14 juillet 1863 4 8 h., Lannion.
+R. Rolland, 29 janvier 1866 4 0 h. 15 m., Clamecy.
+Ch. Maurras, 20 avril 1868 @ 2 h., Martigues (B.-du-R.).
+Ch. H. Lapaire, 26 aofit 1869 4 7 h., Sancouens (Cher). »
+_. P. Louys, 10 décembre 1870 4 10 h., Epernay.
+
+-- p 94 --
+
+* BR. de Flers, 25 novembre 1872 4 7 h., Pont-l’Evéque.
+J. Bainville, 9 février 1879 4 19 h., Vincennes.
+J. Giraudoux, 29 octobre 1882 4 24 h., Bellae.
+A. Demaison, 17 janvier 1883 4 4 h., Bordeaux.
+R. Dorgelés, 15 juin 1885 4 7 h., Amiens.
+* P. Benoit, 16 juillet 1886 4 7 h., Albi.
+P. Morand, 13 mars 1888 4 6 h., Paris.
+L. Treich, 17 avril 1889 4 5 h., Tulle.
+
+-- p 99 --
+
+Ch. L. Carnot, 13 mai 1753 a 16 h., Nolay (Céte-d’Or).
+Ch. Cuvier, 23 aofit 1769 A 4 h., Montbéliard.
+Ch. Chevreul, 31 aofit 1786 4 20 h., Angers.
+* Chasles, 16 novembre 1793 a 10 h., Epernon (Eure-et-Loir).
+Ch. Dumas, 16 juillet 1800 a 5 h., Alés (Gard).
+Ch. Le Verrier, 11 mars 1811 4 10 h., Saint-Lé.
+* _E. Galois, 25 octobre 1811 4 1 h., Bourg-la-Reine (Seine).
+Ch. Cl. Bernard, 12 juillet 1813 4 3 h. 30 m., St-Julien (Rhone).
+* Frémy, 22 février 1814 4 12 h., Versailles.
+Ch. H. Faye, 1° octobre 1814 a 2 h., St-Benoit-du-Sault.
+Ch. Brown-Séquard, 17 avril 1817 A 4 h., Port-Louis (le Maurice).
+* Ch. Briot, 19 juillet 1817 4 1 h., Saint-Hippolyte (Doubs).
+* J. Bouquet, 7 septembre 1819 4 3 h., Morteau (Doubs),
+Ch. Hermite, 24 décembre 1822 4 9 h. 30 m., Dieuze.
+Ch. Pasteur, 27 décembre 1822 4 2 h., Déle. :
+* J. Gaudry, 16 septembre 1827 4 5 h., Saint-Germain-en-Laye.
+Ch. L. Biart, 21 juin 1828 4 10 h., Versailles.
+
+-- p 100 --
+
+Ch. W. Crookeses, 17 juin 1832 & 17 h. 30 m., Londres.
+* G.Planté 22 avril 1834 a 9 h., Orthez.
+Ch. Grimaux, 3 juillet 1835 a 13 h., Rochefort.
+* . Mercadier, 4 janvier 1836 4 4 h., Montauban.
+* &E. Mascart, 20 février 1887 4 22 h., Quarouble (Nord).
+* H. Amagat, 2 janvier 1841 4 12 h., Saint-Satur (Cher).
+_* Courajod, 22 février 1841 4 4 h., Paris. :
+* L. Violle, 16 novembre 1841 4.1 h., Laneres.
+_ *  V. Boussinesq, 13 mars 1842 4 1 h., Saint-andré (Hérault).
+* Jd. Darboux, 14 aofit 1842 4 1 h., Nimes!
+* J. Kiinekel, 10 février 1843 4 6 h., Paris,
+* _E. Meunier, 18 juillet 1843 a 23 h., Paris. ;
+* G. Tissandier, 20 novembre 1843 4 5 h., Paris.
+Ed. Branly, 23 octobre 1844 4 10 h., Amiens.
+Ch. Tisserand, 14 janvier 1845 4 5 h., Nuits (Cote-d’Or).
+* ‘Ch. Vélain, 16 mai 1845 4 14h, Chateau-Thierry.
+*  Heéron de Villefosse, 8 décembre 1845 4 21 h., Paris,
+*  G. Maspéro, 24 juin 1846 4 4 h., Paris,
+*. Th, Homolle, 19 décembre 1848 4 15-h., Paris.
+* Ch. Richet, 26 aoat 1850 4 21 h. 30, Paris.
+* #H. Le Chatelier, 8 octobre 1850 & 2h. 15 m., Paris.
+d’Arsonval 8 juin 1851 4 10 h., La Porcherie (Haute-Vienne).
+Ol. Lodge, 12 juin 1851 4 9 h., Penkhull (Angleterre).
+* Callandreau, 18 Septembre 1852 4 17 h. 25 m., Angouléme.
+mo, Cagnat, 10 octobre 1852 4 3 h., Paris,
+Mert Becquerel, 15 décembre 1852 4 15 h., Paris.
+*.. G: Bonnier, 9 avril 1853 a 11 h., Paris.
+* Ph. Virey, 14 juin 1853 a 11 h., Paris.
+oi Eh. Roux, 17 décembre 1853 4 22 h., Confolens.
+Ge Gouy, 19 février 1854 4 13 h., Vals les Bains.
+Ch. H. Poincaré, 29 avril 1854 4 1 h., Nancy.
+* Kenigs, 17 janvier 1858 4 1 h., Toulouse.
+* Ed. Goursat, 21 mai 1858 a 19 h., Lanzac (Lot).
+Aug. Lumiére, 19 octobre 1862 4 9 h. 25 m., Besancon.
+Calmette, 12 juillet 1863 a 23 h., Nice.
+L. Lumiére, 5 octobre 1864 4 7 h. 10, Besancon.
+es Hadamard, 8 décembre 1865 4 22 h., Versailles.
+* _E. Borel, 7 janvier 1871 4 4 hs St-Affrique (Aveyron).
+* AI. Carrel, 28 juin 1873 4 23 h.; Ste-Foy-les-Lyon (Rhéne). |
+M. Marconi, 25 avril 1874 49 h., Bologne (Italie).
+Einstein, 14 mars 1879 4 11 h. 30 m., Ulm (Allemagne).
+Piccard, 28 janvier 1884 4 23 h., Bale (Suisse).
+L. de Broglie, 15 aofit 1892 41h, Dieppe.
+
+-- p 106 --
+
+Sainte Thérése d’Avila, 28 mars 1515 4 5 h., Avila. (Espagne).
+* Ie curé d’Ars, 8 mai 1786 vers 0 h., Dardilly (Rhéne).
+@h. Pie IX, 12 mai 1792 4 6 h., Sinigaglia (Italie). _
+Mgr. Affre, 27 septembre 1793 4 16, St-Rome-du-Tarn.
+Ch. Dupanloup, 3 janvier 1802 4 9 h., Saint-Félix (Savoie).
+Ch. le pére Gratry, 30 mars 1805 4 22 h. 45 m., Lille.
+¢: Léon XIII, 2 mars 1810 4 17 h. 30 m., Carpinetto (Italie).
+. Mgr Darboy, 16 janvier 1813 4 15 h., Fays-Billot (Haute-
+Marne).
+* Lavigerie, 21 octobre 1825 & 4 h., Bayonne.
+* Mélanie Calvat (la Salette), 4 février 1830 4 2 h., Corps
+(Isére).
+un Dominicain, 7 mars 1835 A 10 h. 30 m., dans |’Aisne.
+Oh. Pie X, 2 juin 1835 4 23 h., prés Trévise (Italie).
+* eo (la Salette), 27 aofit 1885 a 22 h., Corps
+sére).
+Ch. Bernadette de Lourdes, 7 janvier 1844 4 14 h., Lourdes.
+Ch. Annie Besant, 1° octobre 1847 A 17 h. 45 m., Londres.
+* Cardinal Amette, 6 septembre 1850 4 8 h., Douville (Eure).
+Cardinal Mercier, 22 novembre 1851 4 13 h., Braine
+lAlleud (Belgique).
+* le pére Lamy, 22 juin 1853 a 14 h., Le Pailly (Haute-
+. Marne).
+Ch. Benoit XV, 21 novembre 1854 4 10 h. 30., Génes (Italie).
+* Cardinal Dubois, 1° septembre 1856 223 h., Saint-Calais,
+Pie XI, 31 mai 1857 4 8 h., prés de Milan.
+
+-- p 108 --
+
+Besse, dominicain, 29 octobre 1861 4 16 h., St-Angel (Creuse).
+Eve Lavalliére, 1° avril 1866 4 11 h., Toulon (Var).
+* Mgr. Champavier, 1° octobre 1866 4 7 h., St-Pierre de Bressieux (Isére).
+Abbé Mermet, 12 novembre 1866 4 11 h., Les Olliéres (Savoie).
+Sainte Thérése de Lisieux, 3 janvier 1873 4 23 h. 30 m., Alencon.
+un Curé de campagne, 17 aofit 1883 4 5 h., Denain (Nord).
+un Prétre, 19 aofit 1890 4 17 h., en Belgique.
+* Chanoine D., 23 octobre 1893 a 17 h., Rouen.
+Thérése Neumann, 8 avril 1898 4 23 h. 30 m., Konnersreuth (Baviére).
+Abbé Lambert, 3 avril 1900 4 10 h., Villefranche-sur-Mer (Alpes-Maritimes). ;
+Jenny Luxeuil, 13 mai 1905 4 10 h., Luxeuil (Vosges).
+B. C., Trappiste, 27 avril 1906 4 13 h. 30 m., Paris.
+A. C., Trappiste, 4 mars 1908 4 13 h. 30 m., Paris.
+Guy de Fontgalland, 30 novembre 1913 4 21 h. 50 m., Paris.
+Religieuse, 14 février 1914 4 15 h., Gand (Belgique).
+Gilberte D., de Beauraing, 13 aofit 1923 4 5 h., Wancennes (Belgique).
