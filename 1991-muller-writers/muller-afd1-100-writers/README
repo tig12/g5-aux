@@ -5,6 +5,5 @@ pp 25 - 27
 It contains records with birth days but without birth times (Müller requested the data to civil registries but didn't succeed for these records)
 Scan by Nick Kollerstrom
 
-muller-afd1-100-writers.txt
-is a transcription of the images
-OCR + human corrections done by Thierry Graff
+Transcription of the scans have been versioned with Gauquelin5 program
+See https://github.com/tig12/gauquelin5 in directory data/raw/newalchemypress.com/05-muller-writers
