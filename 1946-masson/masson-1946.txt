@@ -6,13 +6,13 @@
 Ch. Lannes,                     10 avril 1769 - 12 h.,          Lectoure (Gers).
 Ch. Bertrand,                   28 mars 1773 - 12 h.,           Chateauroux.
 *   Changarnier,                26 avril 1793 - 9 h.,           Autun.
-Ch. Pélissier,                  6 novembre 1794 - 1 h. 30,      Maromme (S.-Inf'*).
+Ch. Pélissier,                  6 novembre 1794 - 1 h. 30,      Maromme (S.-Inf).
 *   Allard,                     29 octobre 1798 - 21 h.,        Parthenay (Deux-Sévres).
 *   Vinoy,                      10 août 1800 - 6 h.,            St-Etienne-de-St-Geoirs (Isére).
 *   Niel,                       4 octobre 1802 - 4 h.,          Muret (Haute-Garonne).
 *   d’Aurelles de Paladines,    8 janvier 1804 - 12 h.,         Le Malzieu (Lozére).
 *   Bosc,                       16 août 1804 - 10 h.,           Olonzac (Hérault).
-*   Bedeau,                     19 août 1804 - 12 h.,           Vertou (Loire-Inf*).
+*   Bedeau,                     19 août 1804 - 12 h.,           Vertou (Loire-Inf).
 *   Le Flô,                     2 novembre 1804 - 3 h.,         Lesneven (Finistére).
 *   A. Breton,                  4 novembre 1805 - 4 h.,         Melun.
 *   de Chabron,                 5 janvier 1806 - 17 h.,         Retournac (Haute-Loire).
@@ -192,9 +192,9 @@ Ch. Guyot-Dessaigne,            26 décembre 1833 - 10 h.,       Brioude.
 Ch. Naquet,                     6 octobre 1834 - 17 h.,         Carpentras.
 Ch. Combes,                     6 septembre 1835 - 2 h.,        Roquecourbe (Tarn).
 Ch. Spuller,                    8 décembre 1835 - ih.,          Seurre (Côte-d’Or).
-Ch. Carnot,                     11 aotit 1837 - 18 h.,          Limoges.
+Ch. Carnot,                     11 août 1837 - 18 h.,           Limoges.
 Ch. Gambetta,                   2 avril 1838 - 20 h.,           Cahors.
-Ch. Loubet,                     30 décembre 1838 - 17 h.,       Marsanne (Dréme).
+Ch. Loubet,                     30 décembre 1838 - 17 h.,       Marsanne (Drôme).
     Bebel,                      22 février 1840 - 20 h. 30,     Cologne.
     F. Faure,                   30 janvier 1841 -.23 h.,        Paris.
 *   A. de Mun,                  28 février 1841 - 13 h.,        Lumigny (S.-et-M.).
@@ -257,7 +257,7 @@ Ch. Steeg,                      19 décembre 1868 - 5 h.,        Libourne.
     F. Bouisson,                16 juin 1874 - 1 h.,            Constantine.
     Erzberger,                  20 septembre 1875 - 21 h.,      Allemagne (lat. 48° 12).
     Malvy,                      30 novembre 1875 - 3 h.,        Figeac (Lot).
-*   Bastide,                    29 aotit 1876 - 5 h.,           Béziers.
+*   Bastide,                    29 août 1876 - 5 h.,            Béziers.
     A. Tardieu.                 22 septembre 1876 - 13 h.,      Paris.
     Moldenhauer,                2 décembre 1876 - 3 h.,         Cologne.
     Guernut,                    2 novembre 1876 - 7 h.}         Lavaqueresse (Aisne).
@@ -269,10 +269,10 @@ Ch. Steeg,                      19 décembre 1868 - 5 h.,        Libourne.
 *   Pp, Reynaud,                15 octobre 1878 - 18 h.,        Barcelonnette.
     Luther,                     10 mars 1879 - 3 h.,            Berlin.
     Galmot,                     1 juin 1879 - 15 h.,            Montpazier (Dordogne).
-*   Bokanowski,                 31 aotit 1879 - 21 h.,          Le Havre.
+*   Bokanowski,                 31 août 1879 - 21 h.,           Le Havre.
     Wirth,                      7 septembre 1879 - 21 h. 30,    Fribourg-en-Brisgau
     Campinchi,                  5 mai 1882 - 16 h. 20,          Ajaccio.
-    Piétri,                     8 aotit 1882 - 12 h.,           Bastia (Corse).
+    Piétri,                     8 août 1882 - 12 h.,            Bastia (Corse).
 *   Barthe,                     26 mai 1882 - 17 h.,            Béziers.
     Feder,                      27 janvier 1883 - 6 h.,         Wurzburg.
 *   Lecour-Grandmaison,         15 mars 1883 - 3 h.,            Nantes.
@@ -340,7 +340,7 @@ Ch. Steeg,                      19 décembre 1868 - 5 h.,        Libourne.
     Thirion Eugéne,             19 mai 1839 - 16 h.,            Paris.
     Weerts Jean-Baptiste,       1° mai 1847 - 1 h.,             Roubaix.
 
-3 musiciens :
+18 musiciens :
     Audran Edmond,              12 avril 1840 - 1h.,            Lyon.
     Chausson Ernest,            20 janvier 1855 - 12 h.,        Paris.
     Gaubert Philippe,           5 juillet 1879 - 6 h.,          Cahors.
@@ -611,7 +611,7 @@ Ch. Benoit XV,                  21 novembre 1854 - 10 h. 30.,   Génes (Italie).
     un Prétre,                  19 août 1890 - 17 h.,           en Belgique.
 *   Chanoine D.,                23 octobre 1893 - 17 h.,        Rouen.
     Thérése Neumann,            8 avril 1898 - 23 h. 30 m.,     Konnersreuth (Baviére).
-    Abbé Lambert,               3 avril 1900 - 10 h.,           Villefranche-sur-Mer (Alpes-Maritimes). ;
+    Abbé Lambert,               3 avril 1900 - 10 h.,           Villefranche-sur-Mer (Alpes-Maritimes).
     Jenny Luxeuil,              13 mai 1905 - 10 h.,            Luxeuil (Vosges).
     B. C., Trappiste,           27 avril 1906 - 13 h. 30 m.,    Paris.
     A. C., Trappiste,           4 mars 1908 - 13 h. 30 m.,      Paris.
