@@ -1,0 +1,27 @@
+
+In 2020, a 6th edition of CURA data was published.
+Data are closed (not open data), so in theory not usable by g5 (Gauquelin5 program).
+
+- 3 new files with names
+These are data candidates for g5.
+
+361 Birth Data of minor French Painters. Series G, volume 2
+(from Gauquelin 1955)
+http://cura.free.fr/gauq/202011gdG2.html
+
+880 Birth Data of French Priests (Albi and Paris dioceses). Series G, volume 1
+(from Gauquelin 1955)
+http://cura.free.fr/gauq/202011gdG1.html
+
+439 EMINENT MEN (not included in Gauquelin's Data)
+From Arno Müller, 612 berühmte Männer, Astro-Forschungs-Daten 2, Waldmohr, 1992
+http://cura.free.fr/gauq/202011muller2.html
+
+
+- One file with anonymous birth dates :
+(out of the current scope of g5, but interesting, contains family relationships)
+
+2612 New Birth Data (NOGENT). Series E, volume 2h
+Children born between 1899 and 1905 & between 1923 and 1930
+http://cura.free.fr/gauq/202011gdE2h.html
+
