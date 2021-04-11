@@ -1,5 +1,5 @@
 
-Contains scans of book
+Scans of book
 
 Une histoire des mathématiques
 Routes et dédales
@@ -7,13 +7,13 @@ Amy Dahan-Dalmedico
 Jeanne Peiffer
 Editions du Seuil, 1986
 
-Build process (Thierry Graff) :
-- 2020-09-13 Scan "Index des noms propres"
-- OCR
-- manual corrections to fix OCR
+CSV version
+https://github.com/tig12/gauquelin5/tree/master/data/raw/eminence/math/peiffer-dahan-dalmenico
 
+History
+2020-09-13, Thierry Graff : Scan "Index des noms propres" ; OCR ; manual corrections to fix OCR
 
-Build notes :
+Build notes:
 for i in $(ls *.jpg); do tesseract $i $i --psm 6; done;
 touch peiffer-dahan.txt
 for i in $(ls *.txt); do cat $i >> peiffer-dahan.txt; done;
