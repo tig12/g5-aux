@@ -1,5 +1,6 @@
 
-pp 125 - 128 of the book
+
+Extracts of PDF version of the book
 
 Histoire des mathématiques
 Jean-Pierre Escofier
@@ -7,3 +8,14 @@ Jean-Pierre Escofier
 Ed. Dunod
 Collection Les topos
 
+pp 3 - 4:       Sommaire - very very eminent 
+pp 125 - 128:   Index - very eminent
+
+CSV version
+https://github.com/tig12/gauquelin5/tree/master/data/raw/eminence/math/escofier
+
+History
+2021-03-28, Thierry Graff : Add pages 3 - 4
+
+Build notes:
+for i in {3..4} ; do pdftk 'Histoire des mathématiques - Jean-Pierre Escofier.pdf' cat $i output escofier-$i.pdf ; done
