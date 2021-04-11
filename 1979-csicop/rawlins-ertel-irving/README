@@ -9,4 +9,5 @@ This is the original raw data, which shows Rawlins' listing of name, date, time,
 Kenneth Irving considers that the information present in this file is preliminary and partial.
 In particular see Irving's observations in CSI_FILE.TXT
 
-File CSICOP.DOC was integrated to Gauquelin5 program as file data/raw/rawlins-ertel-irving/rawlins-ertel-irving.csv
+File CSICOP.DOC was integrated to Gauquelin5 program as a csv file, see
+https://github.com/tig12/gauquelin5/tree/master/data/raw/csicop/rawlins-ertel-irving
