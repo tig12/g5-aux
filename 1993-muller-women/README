@@ -1,0 +1,27 @@
+
+This directory contains scans of booklet:
+234 berühmte Frauen, Astro-Forschungs-Daten 3, Waldmohr 1993, 76 pp.
+by A Müller and E Lührs
+
+History:
+    2021-03-28, Nick Kollerstrom: Scan
+    2021-03-28, Thierry Graff: OCR and first corrections
+    2021-03-29, Thierry Graff: Tabulations and corrections
+    2021-04-11, Nick Kollerstrom: OCR afd3-234-women-fields-2 and 3
+
+
+Build notes:
+
+for i in {1..6}
+do
+    tesseract afd3-234-women-$i.jpg afd3-women-$i --psm 6
+done
+
+touch afd3-women.txt
+for i in {1..6}
+do
+    cat afd3-women-$i.txt >> afd3-women.txt
+done
+
+rm afd3-women-*
+
