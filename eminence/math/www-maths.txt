@@ -7,3 +7,5 @@ Sites that can be used to build eminence indocators for mathematicians :
 https://www.britannica.com/topic/list-of-mathematicians-2024790
 Quite succint list - contains inter-links
 Birth and death dates available
+
+http://serge.mehl.free.fr/
