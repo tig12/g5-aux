@@ -1,0 +1,28 @@
+
+This directory contains scans of booklet:
+612 berühmte Männer, Astro-Forschungs-Daten 2, Waldmohr 1992, 116 pp.
+by A Müller
+
+Text file built from these scans can be downloaded from
+https://github.com/tig12/gauquelin5/tree/master/data/raw/muller/afd2-men
+
+History:
+    2021-08-21, Nick Kollerstrom: Scan p. 1 of Datenliste 1
+    2021-08-21, Thierry Graff: OCR p. 1 and first corrections
+    2021-08-25, Nick Kollerstrom: Scan all pages (8 pages) of Datenliste 1 + 2 pages of explanations
+    
+
+Build notes:
+
+for i in {1..8}
+do
+    tesseract afd2-612-men-$i.jpg afd2-612-men-$i --psm 6
+done
+
+touch muller-afd2-men.txt
+for i in {1..8}
+do
+    cat afd2-612-men-$i.txt >> muller-afd2-men.txt
+done
+
+rm afd2-612-men-*.txt
