@@ -1,11 +1,30 @@
 
-List of minor painters
-
-From "L'influence des astres", Michel Gauquelin, 1955
-
-Information not present in cura.free.fr
+Scans of "L'influence des astres", Michel Gauquelin, 1955
+"361 peintres mineurs"
+Contains a list of 362 painters
 
 2020-09-18 Scan by Thierry Graff
+2021-10-21 OCR and first corrections by Thierry Graff
 
-TODO OCR
+Build notes
+----------------
+OCR done with intermediate images containing only relevant text: 301.jpg ... 307.jpg
 
+for i in {301..307}
+do
+    tesseract $i.jpg $i --psm 6
+done
+
+touch g55-minor-painters.txt
+for i in {301..307}
+do
+    cat $i.txt >> g55-minor-painters.txt
+done
+
+rm 3*.txt
+
+# remove empty lines
+grep '[^[:blank:]]' < g55-minor-painters.txt > tmp.txt
+mv tmp.txt g55-minor-painters.txt
+
+rm 3*.jpg
