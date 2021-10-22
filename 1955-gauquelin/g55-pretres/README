@@ -1,8 +1,69 @@
 
-List of priests
+Scans of "L'influence des astres", Michel Gauquelin, 1955, Editions du Dauphin
+Contains a list birth dates and times, named "884 prêtres" in the original book
+The list contains 2 sub-lists :
+- Prêtres du diocèse d'Albi (369 persons)
+One person is listed twice : BLANC Jules, 5-10-1881, 5 h., Languet (Tarn).
+- Prêtres du diocèse de Paris (513 persons)
+The list then contains 882 priests (not 884).
 
-From "L'influence des astres", Michel Gauquelin, 1955
+Files g55-priests-paris.txt and g55-priests-albi.txt built from OCR can be downloaded from
+https://github.com/tig12/gauquelin5/tree/master/data/raw/gauquelin1955
 
 2018-08-06 Scan by Thierry Graff
+2021-10-22 OCR and first corrections by Thierry Graff
 
-TODO OCR
+Build notes
+----------------
+OCR done with intermediate images containing only relevant text.
+Paris and Albi lists were treated separately.
+329-albi.jpg ... 335-albi.jpg
+335-paris.jpg ... 343-paris.jpg
+
+--- Albi list ---
+
+for i in {329..335}
+do
+    tesseract $i-albi.jpg $i-albi --psm 6
+done
+
+touch g55-priests-albi.txt
+for i in {329..335}
+do
+    cat $i-albi.txt >> g55-priests-albi.txt
+done
+
+for i in {329..335}
+do
+    rm $i-albi.txt
+done
+
+# remove empty lines
+grep '[^[:blank:]]' < g55-priests-albi.txt > tmp.txt
+mv tmp.txt g55-priests-albi.txt
+
+rm *-albi.jpg
+
+--- Paris list ---
+
+for i in {335..343}
+do
+    tesseract $i-paris.jpg $i-paris --psm 6
+done
+
+touch g55-priests-paris.txt
+for i in {335..343}
+do
+    cat $i-paris.txt >> g55-priests-paris.txt
+done
+
+for i in {335..343}
+do
+    rm $i-paris.txt
+done
+
+# remove empty lines
+grep '[^[:blank:]]' < g55-priests-paris.txt > tmp.txt
+mv tmp.txt g55-priests-paris.txt
+
+rm *-paris.jpg
