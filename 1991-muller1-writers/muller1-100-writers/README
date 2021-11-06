@@ -1,0 +1,17 @@
+
+Jpeg images of this directory contain scans of a list of 100 italian writers published in
+
+402 italienische Schriftsteller, Astro-Forschungs-Daten 1, Waldmohr, 1991
+pp 25 - 27
+
+It contains records with birth days but without birth times (Müller requested the data to civil registries but didn't succeed for these records).
+
+Transcription of these scans are versioned with Gauquelin5 program
+See https://github.com/tig12/gauquelin5/tree/master/data/raw/muller/1-writers
+
+History
+    2020-07-31 Scan by Nick Kollerstrom
+
+See also 
+    https://tig12.github.io/gauquelin5/muller1-402-writers.html
+    https://newalchemypress.com/gauquelin/research5.php

@@ -1,0 +1,33 @@
+
+This directory contains scans of booklet:
+234 berühmte Frauen, Astro-Forschungs-Daten 3, Waldmohr 1993, 76 pp.
+by A Müller and E Lührs
+
+Text files built from these scans can be downloaded from
+https://github.com/tig12/gauquelin5/tree/master/data/raw/muller/3-women
+
+History
+    2021-03-28, Nick Kollerstrom: Scan muller3-234-women-1.jpg ... muller3-234-women-5.jpg + muller3-234-women-fields1.jpg
+    2021-03-28, Thierry Graff: OCR and first corrections
+    2021-03-29, Thierry Graff: Tabulations and corrections
+    2021-04-10, Nick Kollerstrom: OCR muller3-234-women-countries.jpg + muller3-234-women-fields2.jpg
+    2021-06-01, Nick Kollerstrom: OCR muller3-234-women-datasources.jpg + muller3-234-women-occupations.jpg
+
+See also 
+    https://tig12.github.io/gauquelin5/muller3-234-women.html
+    https://newalchemypress.com/gauquelin/research5.php
+
+Build notes:
+
+for i in {1..6}
+do
+    tesseract muller3-234-women-$i.jpg muller3-234-women-$i --psm 6
+done
+
+touch muller3-234-women.txt
+for i in {1..6}
+do
+    cat muller3-234-women-$i.txt >> muller3-234-women.txt
+done
+
+rm muller3-234-women-*.txt
