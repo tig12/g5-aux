@@ -1,10 +1,13 @@
 
 Scans of "L'influence des astres", Michel Gauquelin, 1955, Editions du Dauphin
+
 Contains a list birth dates and times, named "361 peintres mineurs" in the original book
+
 OCR shows that the list contains in fact 362 painters.
 
-File g55-minor-painters.txt built from OCR can be downloaded from
-https://github.com/tig12/gauquelin5/tree/master/data/raw/gauquelin1955
+OCR of these scans and corrections permitted to generate file
+g55-362-minor-painters.txt
+See https://github.com/tig12/gauquelin5/tree/master/data/raw/gauq/g55
 
 2020-09-18 Scan by Thierry Graff
 2021-10-21 OCR and first corrections by Thierry Graff
@@ -28,6 +31,6 @@ rm 3*.txt
 
 # remove empty lines
 grep '[^[:blank:]]' < g55-minor-painters.txt > tmp.txt
-mv tmp.txt g55-minor-painters.txt
+mv tmp.txt g55-362-minor-painters.txt
 
 rm 3*.jpg
