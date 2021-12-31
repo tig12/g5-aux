@@ -1,16 +1,11 @@
-Auxiliary files of https://github.com/tig12/gauquelin5
+Auxiliary files of Gauquelin5 program: https://github.com/tig12/gauquelin5
 
-These files are not necessary to run Gauquelin5 program (g5), but can be useful to check g5 or prepare future developments.
+These files are not necessary to run Gauquelin5 (g5) program, but are useful to check g5 or prepare future developments.
 
 Contents (not exhaustive) :
 
-- Scans of paper documents to OCR
-- Scans of paper documents already OCRed
+- Scans of paper documents to OCR or already OCRed
 - Files used to build g5 code or data
 - Development notes
 
-Browse content of this repository on https://g5.tig12.net/auxiliary/
-
 Download the whole repository : https://github.com/tig12/g5-aux/archive/master.zip
-
-See also Gauquelin5 output data : https://g5.tig12.net/output/
