@@ -7,7 +7,7 @@ pp 25 - 27
 It contains records with birth days but without birth times (Müller requested the data to civil registries but didn't succeed for these records).
 
 Transcription of these scans are versioned with Gauquelin5 program
-See https://github.com/tig12/gauquelin5/tree/master/data/raw/muller/1-writers
+See https://github.com/tig12/g5/tree/main/data/raw/muller/1-writers
 
 History
     2020-07-31 Scan by Nick Kollerstrom
